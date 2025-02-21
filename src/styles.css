@@ -90,6 +90,7 @@
   
   /* React-Select Custom Styles */
   .filter-select {
+    color: #0e0000;
     margin-bottom: 16px;
   }
   
@@ -115,7 +116,7 @@
   }
   
   .filter__multi-value__remove {
-    color: #666 !important;
+    color: #0e0000 !important;
   }
   
   .response-section {
